@@ -1,1 +1,1 @@
-<h2 align="left">Hi 👋! My name is Akumu and I'm a developer</h2>
+<h2 align="center">Hi 👋! My name is Akumu and I'm a developer</h2>
