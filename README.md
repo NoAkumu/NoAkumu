@@ -9,6 +9,10 @@
 
 ###
 
+<p align="left"><br>- 🔭 I’m currently unemployed<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I like to play games and watch anime</p>
+
+###
+
 <h3 align="center">Languages and tools</h2>
 
 ###
@@ -21,6 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
 </div>
