@@ -1,4 +1,4 @@
-<img src="https://github.com/NoAkumu/NoAkumu/blob/0ccc6c792e0723b0ed38252836f245b6a95ec03a/Futaba-Holdup.webp" height=150 />
+<img src="https://github.com/NoAkumu/NoAkumu/blob/0ccc6c792e0723b0ed38252836f245b6a95ec03a/Futaba-Holdup.webp" />
 
 <h2 align="center">Hi 👋! My name is Akumu and I'm a developer</h2>
 
