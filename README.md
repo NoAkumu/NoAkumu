@@ -4,8 +4,11 @@
 
 ###
 
-![Akumu's GitHub stats]("https://github-readme-stats.vercel.app/api?username=NoAkumu&show_icons=true&theme=merko")
-![Languages]("https://github-readme-stats.vercel.app/api/top-langs/?username=NoAkumu&show_icons=true&theme=merko")
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NoAkumu&show_icons=true&theme=merko" height=150 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoAkumu&show_icons=true&theme=merko" height=150 />
+</div>
 
 <p align="center"><br> 🔭 I’m currently unemployed<br> 📚 I'm currently learning Rust<br> ⚡ In my free time I like to play videogames and watch anime</p>
 
