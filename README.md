@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoAkumu&show_icons=true&theme=merko" height=150 />
 </div> -->
 
-<p align="center"><br> 🔭 I’m currently working on a project<br> 📚 Currently learning Rust<br> ⚡ In my free time I like to play videogames and watch anime</p>
+<p align="center"><br> 🔭 I’m currently working on a project<br> 📚 Currently learning C++/OpenGL<br> ⚡ In my free time I like to play videogames and watch anime</p>
 
 ###
 
