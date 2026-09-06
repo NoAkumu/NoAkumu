@@ -4,11 +4,10 @@
 
 ###
 
-
-<!-- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NoAkumu&show_icons=true&theme=merko" height=150 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoAkumu&show_icons=true&theme=merko" height=150 />
-</div> -->
+<div align="center">
+    <img src="https://ghstats.dev/api/card?username=NoAkumu&theme=midnight_sakura&size=compact" height=150 />
+    <img src="https://ghstats.dev/api/langs?username=NoAkumu&theme=midnight_sakura&layout=grid" height=150 />
+</div>
 
 <p align="center"><br> 🔭 I’m currently working on a project<br> 📚 Currently learning C++/OpenGL<br> ⚡ In my free time I like to play videogames and watch anime</p>
 
