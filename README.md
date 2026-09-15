@@ -13,12 +13,36 @@
 
 ###
 
-<h3 align="center">Languages and tools</h2>
+
+<h2 align="center">OS</h2>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,arch,arduino,aws,bash,blender,c,cs,cpp,cmake,cloudflare,debian,css,discord,bots,docker,express,gamemakerstudio,git,github,gitlab,gmail,html,js,kali,linkedin,linux,lua,mastodon,mint,mongodb,nestjs,nginx,nodejs,notion,obsidian,ps,php,postgres,powershell,py,pytorch,robloxstudio,rust,ts,ubuntu,unity,vim,visualstudio,vscode,vscodium,windows," />
+    <img src="https://skillicons.dev/icons?i=linux,arch,debian,kali" />
+  </a>
+</p>
+
+
+<h2 align="center">Languages</h2>
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,html,js,lua,py,rust,ts" />
+  </a>
+</p>
+
+###
+
+<h2 align="center">Tools</h2>
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,arduino,cmake,bots,git,github,gitlab,mastodon,mongodb,nestjs,nginx,nodejs,obsidian,ps,postgres,robloxstudio,vscode,vscodium" />
   </a>
 </p>
