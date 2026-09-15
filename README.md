@@ -19,9 +19,7 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,debian,kali" />
-  </a>
 </p>
 
 
@@ -30,9 +28,7 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,html,js,lua,py,rust,ts" />
-  </a>
 </p>
 
 ###
@@ -42,7 +38,5 @@
 ###
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,arduino,cmake,bots,git,github,gitlab,mastodon,mongodb,nestjs,nginx,nodejs,obsidian,ps,postgres,robloxstudio,vscode,vscodium" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=ae,arduino,cmake,bots,git,github,gitlab,mastodon,mongodb,nestjs,nginx,nodejs,obsidian,ps,postgres,robloxstudio,vscode,vscodium&perline=9" />
 </p>
